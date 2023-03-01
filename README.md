@@ -4,3 +4,4 @@
 Trabalhando com RestAssured
 
 Serão Inseridas novas instuções
+Alterando informação para o Git Pull
